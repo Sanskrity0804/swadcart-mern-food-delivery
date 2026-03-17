@@ -62,9 +62,11 @@ git clone https://github.com/Sanskrity0804/swadcart-mern-food-delivery-app.git
 ### Backend Setup
 
 
+```bash
 cd backend
 npm install
 npm run server
+```
 
 
 ### Frontend Setup
