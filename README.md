@@ -72,17 +72,21 @@ npm run server
 ### Frontend Setup
 
 
+```bash
 cd frontend
 npm install
 npm run dev
+```
 
 
 ### Admin Panel Setup
 
 
+```bash
 cd admin
 npm install
 npm run dev
+```
 
 
 ---
