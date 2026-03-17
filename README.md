@@ -56,7 +56,7 @@ swadcart
 ### Clone the repository
 
 
-git clone https://github.com/yourusername/swadcart-mern-food-delivery-app.git
+git clone https://github.com/Sanskrity0804/swadcart-mern-food-delivery-app.git
 
 
 ### Backend Setup
